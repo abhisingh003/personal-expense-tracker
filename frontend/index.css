@@ -1,0 +1,10 @@
+/* File: src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Custom styling can go below this line */
+body {
+  @apply bg-gray-100 text-gray-900 font-sans;
+}
